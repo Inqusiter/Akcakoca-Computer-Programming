@@ -1,2 +1,2 @@
 # Akcakoca-ComputerProgramming
-Akcakoca software basics class
+Akcakoca software basics class examples

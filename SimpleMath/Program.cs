@@ -13,7 +13,7 @@ namespace SimlpeMath
             /*  
              *  Attention! Green colored sentences in your screen they are comment lines computer won't read them. 
              *  We  define values ​​that can be assigned to the computer as int because int is number value. 
-             *  We have a chance assign them before converting but this is will be complicated for us we need the clear codes. 
+             *  We have a chance to assign them before converting, but this will be complicated for us. We need the clear codes.
              *  Examples
              *  Console.WriteLine("Please Enter First Number");
              *  int number1;

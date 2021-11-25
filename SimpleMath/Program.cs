@@ -38,8 +38,8 @@ namespace SimlpeMath
             number2 = Convert.ToInt32(Console.ReadLine());
 
             /* These lines are about math problems.
-            * If we want to make other math problem we need to change symbol. Here is the a few symbols you can search them on google.
-            * Don't forget these symbols different in computer we are not using what we learn in class like [2X2=4] also they can be different in other languages.
+            * If we want to solve other math problems, we need to change the symbol. Here are a few symbols. You can search for them on Google.
+            * Don't forget these symbols are different on computer. We are not using what we learn in class like [2X2=4] They can also be different in other languages.
             * [+,-,*,/]
             * [Addiction] +
             * [Subtraction] -

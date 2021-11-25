@@ -37,7 +37,7 @@ namespace SimlpeMath
             Console.WriteLine("Please Enter Second Number");
             number2 = Convert.ToInt32(Console.ReadLine());
 
-            /* These line about math problems.
+            /* These lines about math problems.
             * If we want to make other math problem we need to change symbol. Here is the a few symbols you can search them on google.
             * Don't forget these symbols different in computer we are not using what we learn in class like [2X2=4] also they can be different in other languages.
             * [+,-,*,/]

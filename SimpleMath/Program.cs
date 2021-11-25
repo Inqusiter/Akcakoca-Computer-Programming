@@ -29,11 +29,11 @@ namespace SimlpeMath
             //This line is for the first message.
             Console.WriteLine("Simple Math");
 
-            //The first line is containing message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number1. 
+            //The first line contains the message. The second line converts string to int, then we assign the entered value (it has to be a number or it will crash) to number1. 
             Console.WriteLine("Please Enter First Number");
             number1 = Convert.ToInt32(Console.ReadLine());
 
-            //The first line is containing message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number2.
+            //The first line contains the message. The second line converts string to int, then we assign the entered value (it has to be a number or it will crash) to number2.
             Console.WriteLine("Please Enter Second Number");
             number2 = Convert.ToInt32(Console.ReadLine());
 

@@ -23,17 +23,17 @@ namespace SimlpeMath
              *  number2 = Convert.ToInt32(Console.ReadLine());
             */
 
-            // This is the clear one
+            // This is the clear one.
             int number1, number2, result;
 
-            //This line for message 
+            //This line is for the first message.
             Console.WriteLine("Simple Math");
 
-            //The first line contain message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number1. 
+            //The first line is containing message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number1. 
             Console.WriteLine("Please Enter First Number");
             number1 = Convert.ToInt32(Console.ReadLine());
 
-            //The first line contain message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number2.
+            //The first line is containing message. Second line converting string to int then we assign the entered value (It have to be number or it will crash) to number2.
             Console.WriteLine("Please Enter Second Number");
             number2 = Convert.ToInt32(Console.ReadLine());
 
@@ -46,7 +46,7 @@ namespace SimlpeMath
             * [Multiplication] *
             * [Division] /
             */
-            // This line solving math problem. Computer will calculate  what we entered.
+            // This line solves a math problem. Computer will calculate  what we entered.
             result = number1 + number2;
             Console.WriteLine("Result " + result);
 

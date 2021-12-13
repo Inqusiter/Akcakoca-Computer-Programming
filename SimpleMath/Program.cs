@@ -41,7 +41,7 @@ namespace SimlpeMath
             * If we want to solve other math problems, we need to change the symbol. Here are a few symbols. You can search for them on Google.
             * Don't forget these symbols are different on computer. We are not using what we learn in class like [2X2=4] They can also be different in other languages.
             * [+,-,*,/]
-            * [Addiction] +
+            * [Addition] +
             * [Subtraction] -
             * [Multiplication] *
             * [Division] /

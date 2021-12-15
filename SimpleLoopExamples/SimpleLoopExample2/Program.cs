@@ -27,7 +27,7 @@ namespace SimpleLoopExample1
 
 
 
-            int Value1 = 0, Value2 = 0, Result, Loop, Avarage;
+            int Value1 = 0, Value2 = 0, Result, Loop;
 
             start:
             Console.Write("Hello, I am avarage calculator bot. How many times should ı work ? :");

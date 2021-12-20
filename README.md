@@ -4,5 +4,6 @@
 ### 🌱 I’m currently learning C#
 ### First lesson is SimpleMath
 ### Second lesson is SimpleLoop [Examples are in SimpleLoopExamples]
+### Third lesson is MathProblems
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/53434685/143288173-e6043200-d422-4c46-b027-45e2cdbf0843.PNG)
 Thank you for visiting my page. You are ✨ special ✨ as you know  its `README.md`

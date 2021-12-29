@@ -1,0 +1,7 @@
+C:\Users\zamaz\source\repos\SimpleDoWhile\obj\Debug\SimpleDoWhile.csproj.AssemblyReference.cache
+C:\Users\zamaz\source\repos\SimpleDoWhile\obj\Debug\SimpleDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\zamaz\source\repos\SimpleDoWhile\bin\Debug\SimpleDoWhile.exe.config
+C:\Users\zamaz\source\repos\SimpleDoWhile\bin\Debug\SimpleDoWhile.exe
+C:\Users\zamaz\source\repos\SimpleDoWhile\bin\Debug\SimpleDoWhile.pdb
+C:\Users\zamaz\source\repos\SimpleDoWhile\obj\Debug\SimpleDoWhile.exe
+C:\Users\zamaz\source\repos\SimpleDoWhile\obj\Debug\SimpleDoWhile.pdb

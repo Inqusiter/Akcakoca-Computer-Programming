@@ -31,10 +31,10 @@ namespace SimpleIf
 
             if (num%2==0)
             {
-                Console.WriteLine("\n"+"{0} is a even number!",num);
+                Console.WriteLine("\n" + "{0} is a even number!",num);
             }
 
-            Console.WriteLine("\n"+"Please enter again...");
+            Console.WriteLine("\n" + "Please enter again...");
             goto start;
         }
     }

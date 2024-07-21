@@ -1,5 +1,5 @@
-# Akcakoca-Computer-Programming
-## Akcakoca software basics class examples
+# Computer-Programming
+## Software basics class examples
 ### 👋 Hi, I’m Berat. I’m interested in software. I want to help whos wants to learn software.
 ### 🌱 I’m currently learning C#
 ### 1. Lesson is SimpleMath
